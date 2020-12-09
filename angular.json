@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-learning"
+    }
+  },
+  "defaultProject": "ng-learning",
+  "cli": {
+    "analytics": "556bd284-d727-441f-8244-a4d34e2fa2e9"
+  }
 }
